@@ -1,8 +1,7 @@
-
-
 from hello_world import HelloWorld
 
 
 if __name__ == "__main__":
-    HelloWorld().greet()
-    print("Goodbye, World!")
+    hw = HelloWorld()
+    hw.greet()
+    hw.farewell()
