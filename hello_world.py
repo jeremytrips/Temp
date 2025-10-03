@@ -5,4 +5,4 @@ class HelloWorld:
         return "Hello, World!"
 
     def farewell(self):
-        return "Goodbye, World!"
+        return "Goodbye World!"
